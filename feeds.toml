@@ -1,4 +1,4 @@
-[newneek]
+[all]
 title = "뉴닉 ─ 전체"
 url = "https://newneek.co/"
 entrySelector = "section.sc-bdnxRM.jvCTkj.home-recent div.posts a"
@@ -10,10 +10,10 @@ dateFormat = "yyyy/MM/dd"
 imageSelector = "div.card-inner figure.card-thumbnail"
 waitUntil = "networkidle"
 
-[newneek_presidential-election]
+[presidential-election]
 title = "뉴닉 ─ 2022 대선"
 url = "https://newneek.co/tag/2022-presidential-election"
-entrySelector = "section.sc-bdnxRM.jvCTkj.home-recent div.posts a"
+entrySelector = "section div.posts a"
 titleSelector = "div.card-inner div.card-body h3.card-title"
 linkSelector = "*"
 contentSelector = "div.card-inner div.card-body p.card-text"
@@ -22,10 +22,10 @@ dateFormat = "yyyy/MM/dd"
 imageSelector = "div.card-inner figure.card-thumbnail"
 waitUntil = "networkidle"
 
-[newneek_politics]
+[politics]
 title = "뉴닉 ─ 정치"
 url = "https://newneek.co/tag/politics"
-entrySelector = "section.sc-bdnxRM.jvCTkj.home-recent div.posts a"
+entrySelector = "section div.posts a"
 titleSelector = "div.card-inner div.card-body h3.card-title"
 linkSelector = "*"
 contentSelector = "div.card-inner div.card-body p.card-text"
@@ -34,10 +34,10 @@ dateFormat = "yyyy/MM/dd"
 imageSelector = "div.card-inner figure.card-thumbnail"
 waitUntil = "networkidle"
 
-[newneek_world]
+[world]
 title = "뉴닉 ─ 세계"
 url = "https://newneek.co/tag/world"
-entrySelector = "section.sc-bdnxRM.jvCTkj.home-recent div.posts a"
+entrySelector = "section div.posts a"
 titleSelector = "div.card-inner div.card-body h3.card-title"
 linkSelector = "*"
 contentSelector = "div.card-inner div.card-body p.card-text"
@@ -46,10 +46,10 @@ dateFormat = "yyyy/MM/dd"
 imageSelector = "div.card-inner figure.card-thumbnail"
 waitUntil = "networkidle"
 
-[newneek_tech]
+[tech]
 title = "뉴닉 ─ 테크"
 url = "https://newneek.co/tag/tech"
-entrySelector = "section.sc-bdnxRM.jvCTkj.home-recent div.posts a"
+entrySelector = "section div.posts a"
 titleSelector = "div.card-inner div.card-body h3.card-title"
 linkSelector = "*"
 contentSelector = "div.card-inner div.card-body p.card-text"
@@ -58,10 +58,10 @@ dateFormat = "yyyy/MM/dd"
 imageSelector = "div.card-inner figure.card-thumbnail"
 waitUntil = "networkidle"
 
-[newneek_economy]
+[economy]
 title = "뉴닉 ─ 경제"
 url = "https://newneek.co/tag/economy"
-entrySelector = "section.sc-bdnxRM.jvCTkj.home-recent div.posts a"
+entrySelector = "section div.posts a"
 titleSelector = "div.card-inner div.card-body h3.card-title"
 linkSelector = "*"
 contentSelector = "div.card-inner div.card-body p.card-text"
@@ -70,10 +70,10 @@ dateFormat = "yyyy/MM/dd"
 imageSelector = "div.card-inner figure.card-thumbnail"
 waitUntil = "networkidle"
 
-[newneek_labor]
+[labor]
 title = "뉴닉 ─ 노동"
 url = "https://newneek.co/tag/labor"
-entrySelector = "section.sc-bdnxRM.jvCTkj.home-recent div.posts a"
+entrySelector = "section div.posts a"
 titleSelector = "div.card-inner div.card-body h3.card-title"
 linkSelector = "*"
 contentSelector = "div.card-inner div.card-body p.card-text"
@@ -82,10 +82,10 @@ dateFormat = "yyyy/MM/dd"
 imageSelector = "div.card-inner figure.card-thumbnail"
 waitUntil = "networkidle"
 
-[newneek_environment]
+[environment]
 title = "뉴닉 ─ 환경"
 url = "https://newneek.co/tag/environment"
-entrySelector = "section.sc-bdnxRM.jvCTkj.home-recent div.posts a"
+entrySelector = "section div.posts a"
 titleSelector = "div.card-inner div.card-body h3.card-title"
 linkSelector = "*"
 contentSelector = "div.card-inner div.card-body p.card-text"
@@ -94,10 +94,10 @@ dateFormat = "yyyy/MM/dd"
 imageSelector = "div.card-inner figure.card-thumbnail"
 waitUntil = "networkidle"
 
-[newneek_women]
+[women]
 title = "뉴닉 ─ 여성"
 url = "https://newneek.co/tag/women"
-entrySelector = "section.sc-bdnxRM.jvCTkj.home-recent div.posts a"
+entrySelector = "section div.posts a"
 titleSelector = "div.card-inner div.card-body h3.card-title"
 linkSelector = "*"
 contentSelector = "div.card-inner div.card-body p.card-text"
@@ -106,10 +106,10 @@ dateFormat = "yyyy/MM/dd"
 imageSelector = "div.card-inner figure.card-thumbnail"
 waitUntil = "networkidle"
 
-[newneek_covid-19]
+[covid-19]
 title = "뉴닉 ─ 코로나19"
 url = "https://newneek.co/tag/covid-19"
-entrySelector = "section.sc-bdnxRM.jvCTkj.home-recent div.posts a"
+entrySelector = "section div.posts a"
 titleSelector = "div.card-inner div.card-body h3.card-title"
 linkSelector = "*"
 contentSelector = "div.card-inner div.card-body p.card-text"
@@ -118,10 +118,10 @@ dateFormat = "yyyy/MM/dd"
 imageSelector = "div.card-inner figure.card-thumbnail"
 waitUntil = "networkidle"
 
-[newneek_pizzastation]
+[pizzastation]
 title = "뉴닉 ─ 피자스테이션"
 url = "https://newneek.co/tag/pizzastation"
-entrySelector = "section.sc-bdnxRM.jvCTkj.home-recent div.posts a"
+entrySelector = "section div.posts a"
 titleSelector = "div.card-inner div.card-body h3.card-title"
 linkSelector = "*"
 contentSelector = "div.card-inner div.card-body p.card-text"
