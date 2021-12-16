@@ -95,7 +95,7 @@ imageSelector = "div.card-inner figure.card-thumbnail"
 waitUntil = "networkidle"
 
 [newneek_women]
-title = "뉴닉 ─ 환경"
+title = "뉴닉 ─ 여성"
 url = "https://newneek.co/tag/women"
 entrySelector = "section.sc-bdnxRM.jvCTkj.home-recent div.posts a"
 titleSelector = "div.card-inner div.card-body h3.card-title"
